@@ -1,0 +1,15 @@
+p {
+  position: relative;
+  bottom: 36px;
+  left: 100px;
+}
+.selectmp3 {
+  position: relative;
+  bottom: 70px;
+  left: 120px;
+}
+input[type=submit] {
+  position: relative;
+  bottom: 70px;
+  left: 130px;
+}
